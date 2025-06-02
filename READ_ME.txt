@@ -18,8 +18,7 @@ This project focuses on performing customer segmentation using unsupervised lear
 1️⃣ Clone the repo:
 
 ```bash
-git clone https://github.com/jaiakash31/Clustify.git
-cd Clustify
+https://github.com/Jaiakash31/Clustify.git
 
 2️⃣ Create a virtual environment:
 
